@@ -1,8 +1,0 @@
-2024-05-04 13:05:19: -- Análisis iniciado por User Command
-2024-05-04 13:05:19: I: Leyendo archivo de estado D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/_gsdata_/_file_state_v4._gs
-2024-05-04 13:05:19: I: State file does not exist: D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/_gsdata_/_file_state_v4._gs
-2024-05-04 13:05:19: D: Leyendo archivo de estado C:/laragon/www/browser-prod-ssr/_gsdata_/_file_state_v4._gs
-2024-05-04 13:05:19: D: State file does not exist: C:/laragon/www/browser-prod-ssr/_gsdata_/_file_state_v4._gs
-2024-05-04 13:05:19: Cambios: 27, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 216, Errores: 0, All: 244
-2024-05-04 13:05:19: Left to Right: Delete File: 27 
-2024-05-04 13:05:19: -- Análisis completo. Tiempo 00:00:00, Velocidad: Many archivo/s
