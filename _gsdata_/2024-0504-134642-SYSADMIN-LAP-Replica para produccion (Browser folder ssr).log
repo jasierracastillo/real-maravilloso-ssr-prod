@@ -1,0 +1,31 @@
+2024-05-04 13:47:20: == Sinc. comenzada por User Command
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-IHZFAYE4.js
+2024-05-04 13:47:20: Copiar Sobre 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/albums/index.html' -> 'C:/laragon/www/browser-prod-ssr/albums/index.html' (21,337)
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-JZ22FAQ3.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-LMJQC6NU.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-2XWQRRUC.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-LS4HE6P5.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-LZ35FWYH.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-MPVDXK3C.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-OSHLG2SB.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-OUZKAHWE.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-QCP7DGAI.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/chunk-ZDUHOU5C.js
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/desktop.ini
+2024-05-04 13:47:20: Copiar Sobre 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/gallery/index.html' -> 'C:/laragon/www/browser-prod-ssr/gallery/index.html' (29,440)
+2024-05-04 13:47:20: Copiar Sobre 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/contact/index.html' -> 'C:/laragon/www/browser-prod-ssr/contact/index.html' (21,631)
+2024-05-04 13:47:20: Borrar Archivo C:/laragon/www/browser-prod-ssr/main-RR5M3YWT.js
+2024-05-04 13:47:20: Copiar Sobre 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/home/index.html' -> 'C:/laragon/www/browser-prod-ssr/home/index.html' (30,196)
+2024-05-04 13:47:20: Copiar Nueva 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/main-YJYEM5UC.js' -> 'C:/laragon/www/browser-prod-ssr/main-YJYEM5UC.js' (239,296)
+2024-05-04 13:47:20: Copiar Sobre 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/index.html' -> 'C:/laragon/www/browser-prod-ssr/index.html' (30,022)
+2024-05-04 13:47:20: Close Modified Folder (mod-time, acl): /albums
+2024-05-04 13:47:20: Close Modified Folder (mod-time, acl): /gallery
+2024-05-04 13:47:20: Close Modified Folder (mod-time, acl): /contact
+2024-05-04 13:47:20: Close Modified Folder (mod-time, acl): /home
+2024-05-04 13:47:20: Copiar Sobre 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/polyfills-RT5I6R6G.js' -> 'C:/laragon/www/browser-prod-ssr/polyfills-RT5I6R6G.js' (33,898)
+2024-05-04 13:47:20: Copiar Sobre 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/styles-5INURTSO.css' -> 'C:/laragon/www/browser-prod-ssr/styles-5INURTSO.css' (0)
+2024-05-04 13:47:20: Copiar Sobre 'D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/videos/index.html' -> 'C:/laragon/www/browser-prod-ssr/videos/index.html' (34,810)
+2024-05-04 13:47:21: Close Modified Folder (mod-time, acl): /videos
+2024-05-04 13:47:21: Guardar archivo de estado D:/DEV/real-maravilloso-ssr/dist/real-maravilloso/browser/_gsdata_/_file_state_v4._gs
+2024-05-04 13:47:21: Guardar archivo de estado C:/laragon/www/browser-prod-ssr/_gsdata_/_file_state_v4._gs
+2024-05-04 13:47:21: == Sinc. Completa. Tiempo: 00:00:01, Velocidad: 0.00/s, OK: 218, Errores: 0
